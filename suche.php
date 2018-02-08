@@ -2,10 +2,7 @@
 <br>
 <?php
 /**
- * Created by PhpStorm.
- * User: Severin
- * Date: 10.01.2018
- * Time: 15:00
+ * A random search site
  */
 if(!isset($_GET['Preislisteanzeigen']))
 {
