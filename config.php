@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Severin
- * Date: 10.01.2018
- * Time: 13:54
+ * Creates the Serverconnection
  */
 $server = 'localhost';
 $user = 'root';
