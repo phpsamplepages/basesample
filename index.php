@@ -1,4 +1,6 @@
-<!-- Severin Scharinger -->
+/**
+* Includes every site 
+*/
 <!DOCTYPE HTML>
 <html>
 <head>
