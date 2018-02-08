@@ -1,3 +1,6 @@
+/**
+* the navbar with bootstrap
+*/
 <nav class="navbar navbar-inverse">
     <div class="container">
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
